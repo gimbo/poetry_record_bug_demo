@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: poetry-record-bug-demo
+Version: 0.1.0
+Summary: Demo of bug in poetry when writing wheel RECORD files if some file in the package has a comma in its name.
+License: MIT
+Author: Andy Gimblett
+Author-email: andy@barefootcode.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
